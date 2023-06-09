@@ -1,1 +1,3 @@
-
+public class tellamekala {
+public void t2(){
+System.oout.println("hima saanvi tellamekala ") }
