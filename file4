@@ -1,0 +1,13 @@
+[200~public interface one {
+public abstract void m1();
+private abstract  void m2();
+final abstract void m3();
+static abstract void m4();
+private   void m2();
+final  void m3();
+static  void m4();
+// wecannot overriding 
+
+
+}
+
